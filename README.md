@@ -6,6 +6,21 @@ Simply type your keyword into Alfred (default: nos) to see shortcuts from Notion
 
 ![img](/notion-demo.gif)
 
+### keyword
+
+- `now`: Open a new Notion window.
+- `nos`: Open search or jump to a recently viewed page.
+- `no1`: Create an H1 heading.
+- `no2`: Create an H2 heading.
+- `no3`: Create an H3 heading.
+- `notd`: Create a to-do checkbox.
+- `nobl`: Create a bulleted list.
+- `nonl`: Create a numbered list.
+- `notg`: Create a toggle list.
+- `nocb`: Create a code block.
+- `noni`: Create a new page, or turn whatever you have on a line into a page.
+- `nonp`: Create a new page.
+
 
 ## Download
 
