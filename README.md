@@ -6,7 +6,7 @@ Simply type your keyword into Alfred (default: nos) to see shortcuts from Notion
 
 ![img](/notion-demo.gif)
 
-### keyword
+### Keyword
 
 - `now`: Open a new Notion window.
 - `nos`: Open search or jump to a recently viewed page.
@@ -22,14 +22,26 @@ Simply type your keyword into Alfred (default: nos) to see shortcuts from Notion
 - `nonp`: Create a new page.
 
 
+### That works for me
+
+In an active window of notion on macOS use `shift + command + n`.
+
+> Basically I want to create a workflow for opening a new window of notion on the active virtual desktop that I'm in, how do make this happen? 
+> - [How to make a custom workflow for new Notion window?](https://www.reddit.com/r/Alfred/comments/p04n24/how_to_make_a_custom_workflow_for_new_notion/)
+
+![multi-windows.png](/multi-windows.png)
+
+Now just enter `now`~
+
+
 ## Download
 
 - [https://github.com/iHTCboy/notion-shortcuts-alfred-workflow/releases](https://github.com/iHTCboy/notion-shortcuts-alfred-workflow/releases)
 
-Documentation, instructions on workflow in the readme here:
-https://github.com/iHTCboy/notion-shortcuts-alfred-workflow
+
+## Forum topics:
 
 Forum topic:
-https://www.alfredforum.com/topic/18227-notion-app-shortcuts-workflow/
+- https://www.alfredforum.com/topic/18227-notion-app-shortcuts-workflow/
 
 Thanks!
