@@ -10,7 +10,7 @@ Simply type your keyword into Alfred (default: nos) to see shortcuts from Notion
 
 - `now`: Open a new Notion window.
 - `nows`: Open a new Notion window to new Desktop space.
-- `nos`: Open search or jump to a recently viewed page.
+- `nof`: Open search or jump to a recently viewed page.
 - `no1`: Create an H1 heading.
 - `no2`: Create an H2 heading.
 - `no3`: Create an H3 heading.
@@ -21,6 +21,8 @@ Simply type your keyword into Alfred (default: nos) to see shortcuts from Notion
 - `nocb`: Create a code block.
 - `noni`: Create a new page, or turn whatever you have on a line into a page.
 - `nonp`: Create a new page.
+- `nosb`: Close or Open Sidebar.
+
 
 
 ### That works for me
